@@ -8,7 +8,7 @@ public class Sketch extends PApplet {
    */
   public void settings() {
 	// put your size call here
-    size(400, 400);
+    size(600, 400);
 
     
   }
@@ -25,7 +25,7 @@ public class Sketch extends PApplet {
   public void draw() {
 
     // change width and height here
-    float width = 400;
+    float width = 600;
     float height = 400;
 
     // scale factor
